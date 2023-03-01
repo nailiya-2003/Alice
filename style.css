@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(166, 197, 134);
+    font-size: 30px;
+}
+a {
+    color: rgb(255, 0, 0);
+}
+h2.theproject {
+    color: rgba(232, 15, 47, 0.3);
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+}
+h2.black {
+    display: block;
+    margin: 0 auto;
+    color: black;
+}
+#begin {
+    color: blue;
+}
+span.text {
+    color: blue;
+}
+.example {
+    box-sizing: border-box;
+    position: fixed;
+    top: 300px;
+    right: 50px;
+}
+
+img {
+    margin: 0 auto;
+    float: right;
+}
+
+
+
+
+
